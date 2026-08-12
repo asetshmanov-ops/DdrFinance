@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Default List",
-  "timestamp": "2021-05-06T00:00:00Z",
+  "timestamp": "2026-08-12T11:30:00Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://pancakeswap.finance/logo.png",
@@ -37,7 +37,7 @@
     {
       "name": "Ethereum Token",
       "symbol": "ETH",
-      "address": "0x738D66A4Be751382a3f59f47F9Cf429644F006b7",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
