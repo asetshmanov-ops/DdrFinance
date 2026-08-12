@@ -1,0 +1,10 @@
+{
+  "description": "Public receiving addresses. NEVER store private keys or seeds here. This file is for reference only.",
+  "wallets": [
+    {
+      "name": "main-eth-usdt-receiving",
+      "address": "0x738D66A4Be751382a3f59f47F9Cf429644F006b7",
+      "network": "ethereum"
+    }
+  ]
+}
