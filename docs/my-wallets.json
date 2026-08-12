@@ -1,10 +1,24 @@
 {
   "description": "Public receiving addresses. NEVER store private keys or seeds here. This file is for reference only.",
+  "owner_label": "asetshmanov-ops",
   "wallets": [
     {
       "name": "main-eth-usdt-receiving",
       "address": "0x738D66A4Be751382a3f59f47F9Cf429644F006b7",
-      "network": "ethereum"
+      "network": "ethereum",
+      "note": "receiving address for ETH/USDT"
+    },
+    {
+      "name": "main-btc",
+      "address": "bc1q54jvceqczvxd3rzdalvkexg8ztqsymzerfa7zu",
+      "network": "bitcoin",
+      "note": "receiving BTC (bech32)"
+    },
+    {
+      "name": "main-ton",
+      "address": "UQArbru6Jr2FKzAr0nOGpprJGim-zuSj2U_Jy8jb5Qe2ftbr",
+      "network": "ton",
+      "note": "receiving TON (grams)"
     }
   ]
 }
